@@ -1,9 +1,10 @@
+-f https://data.pyg.org/whl/torch-2.2.0+cpu.html
 streamlit
 torch==2.2.0
 torchvision==0.17.0
 torchaudio==2.2.0
 torch-geometric==2.5.2
 scikit-learn
-numpy
 matplotlib
+numpy
 tqdm
